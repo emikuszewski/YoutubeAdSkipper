@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# YouTube Ad Skipper v2 - Build Script
+# YouTube Ad Skipper v8 - Build Script
 
 set -e
 
