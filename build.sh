@@ -4,7 +4,7 @@
 
 set -e
 
-echo "🔨 Building YouTube Ad Skipper v2..."
+echo "🔨 Building YouTube Ad Skipper v8..."
 
 # Create build directory
 mkdir -p build/YouTubeAdSkipper.app/Contents/MacOS
