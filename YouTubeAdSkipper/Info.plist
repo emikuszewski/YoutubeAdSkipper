@@ -1,1 +1,30 @@
-Info.plist
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>YouTubeAdSkipper</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.yourname.YouTubeAdSkipper</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>YouTube Ad Skipper</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>2.0</string>
+    <key>CFBundleVersion</key>
+    <string>2</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>12.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>YouTube Ad Skipper needs to control Chrome to detect and skip ads.</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © 2024. All rights reserved.</string>
+</dict>
+</plist>
